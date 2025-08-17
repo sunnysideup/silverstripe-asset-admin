@@ -80,7 +80,7 @@
     "modernizr": "^3.12.0",
     "prop-types": "^15.8.1",
     "qs": "^6.11.0",
-    "react": "^18.2.0",
+    "react": "^19.1.0",
     "react-dnd": "^5.0.0",
     "react-dnd-html5-backend": "^5.0.1",
     "react-dom": "^18.2.0",
